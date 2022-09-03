@@ -39,4 +39,4 @@ http://localhost:3000
 
 - Node.js 14.16.0
 - Express 4.16.4
-- Express-Handlebars 6.0.6
+- Express-Handlebars 3.0.0
